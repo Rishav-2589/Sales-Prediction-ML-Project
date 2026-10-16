@@ -1,0 +1,15 @@
+# datasets (downloaded by the notebook)
+*.csv
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# secrets (for later projects)
+.env
+
+# system files
+.DS_Store
