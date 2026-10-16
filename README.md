@@ -1,4 +1,4 @@
-# Number of Orders Prediction
+# Number of Sales Prediction
 
 A machine learning project that predicts weekly sales for a store and department using historical sales data.
 
